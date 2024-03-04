@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/noxi-store/static/css/main.7acaea2f.css",
-    "main.js": "/noxi-store/static/js/main.07d3183d.js",
+    "main.css": "/noxi-store/static/css/main.b67ae145.css",
+    "main.js": "/noxi-store/static/js/main.48ba9162.js",
+    "static/media/logo.png": "/noxi-store/static/media/logo.ba15ff233db32be8ac3d.png",
     "index.html": "/noxi-store/index.html",
-    "main.7acaea2f.css.map": "/noxi-store/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/noxi-store/static/js/main.07d3183d.js.map"
+    "main.b67ae145.css.map": "/noxi-store/static/css/main.b67ae145.css.map",
+    "main.48ba9162.js.map": "/noxi-store/static/js/main.48ba9162.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.b67ae145.css",
+    "static/js/main.48ba9162.js"
   ]
 }
