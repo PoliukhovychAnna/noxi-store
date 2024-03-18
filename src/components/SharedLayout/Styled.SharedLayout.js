@@ -5,5 +5,4 @@ export const Container = styled.div`
     Container {
     }
   }
-  outline: 1px solid tomato;
 `;

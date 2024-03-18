@@ -4,11 +4,11 @@ import img from '../../images/logo.png';
 export const Header = () => {
   return (
     <HeaderWrapper>
-      <LogoLink href="http://localhost:3000/noxi-store">
+      <LogoLink href="/noxi-store">
         <LogoImg src={img} alt="logo-noxi" />
       </LogoLink>
 
-      <LogoTitle>NOXI</LogoTitle>
+      <LogoTitle href="/noxi-store">NOXI</LogoTitle>
     </HeaderWrapper>
   );
 };
