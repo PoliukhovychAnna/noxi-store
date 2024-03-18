@@ -27,7 +27,7 @@ export const SearchBar = styled.input`
   height: 35px;
   width: 230px;
   border-radius: 17px;
-  /* border: 1px solid var(--secondary-pink-color); */
+  border: 1px solid var(--secondary-pink-color);
   padding: 15px;
   /* background-color: var(--main-pink-color); */
   /* color: var(--primary-white-color); */
