@@ -1,7 +1,7 @@
 import 'swiper/css';
 import 'swiper/css/navigation';
 import { Navigation } from 'swiper/modules';
-import { BannerWrapper, BannerSlides, BannerImg } from './Styled.Banner';
+import { BannerWrapper, BannerSlides } from './Styled.Banner';
 
 export const Banner = () => {
   return (
